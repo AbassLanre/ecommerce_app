@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367774790688",
+    "project_id": "pocketzone-a27de",
+    "storage_bucket": "pocketzone-a27de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367774790688:android:352d815b10d501e8b4f845",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367774790688-707nphik36ft4np8ca9l291ha4t6mk0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApUuJm7eN3GXqalwpQGa9A0wWduCgyTA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367774790688-707nphik36ft4np8ca9l291ha4t6mk0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
